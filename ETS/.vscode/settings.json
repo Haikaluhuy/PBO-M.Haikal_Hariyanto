@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\gson-2.8.9.jar",
+        "c:\\Users\\Asus\\OneDrive - Politeknik Negeri Bandung\\semester 3\\PBO\\PBO-M.Haikal_Hariyanto\\ETS\\lib\\gson-2.8.9.jar"
+    ]
+}
